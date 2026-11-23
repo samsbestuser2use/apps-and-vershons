@@ -22,11 +22,11 @@
       "version": "4.0.14"
     },
     "sams-server": {
-      "release_tag": "sams-server-v1.0.0",
-      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/sams-server-v1.0.0/SamsServerSetup.exe",
-      "sha256": "5f59d33856f1f8d465cda68737eb975f2dba00a56088c86ad088a56795b985ad",
-      "size": 12246474,
-      "version": "1.0.0"
+      "release_tag": "samsserversetup-v1.0.1",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/samsserversetup-v1.0.1/SamsServerSetup.exe",
+      "sha256": "fba6a0adddab54088fab1f19ed49dded66e67a2dd083b7f619a2d31a41dc2c06",
+      "size": 13851627,
+      "version": "1.0.1"
     },
     "samuel-toolbox": {
       "release_tag": "samuel-toolbox-v1.0.1",
@@ -43,11 +43,11 @@
       "version": "1.11.3"
     },
     "server-manager": {
-      "release_tag": "server-manager-v1.0.0",
-      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/server-manager-v1.0.0/ServerManagerSetup.exe",
-      "sha256": "a16eee938976b2df3b7a27020659dafd06a22dd7206a0cbaa65ea5f389c70c49",
-      "size": 12226994,
-      "version": "1.0.0"
+      "release_tag": "servermanagersetup-v1.0.1",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/servermanagersetup-v1.0.1/ServerManagerSetup.exe",
+      "sha256": "873d540958178eada8bb73bdd0002125ec42eb11ccdfbe0fec0167a7103e73a3",
+      "size": 13832118,
+      "version": "1.0.1"
     },
     "simple-autoclicker": {
       "release_tag": "simple-autoclicker-v1.6.1",
