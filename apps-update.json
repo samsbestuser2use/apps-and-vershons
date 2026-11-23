@@ -1,25 +1,25 @@
 {
   "apps": {
     "block-macro-studio": {
-      "release_tag": "block-macro-studio-v1.0.1",
-      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/block-macro-studio-v1.0.1/BlockMacroStudioSetup.exe",
-      "sha256": "fad45c2045bdf430f2a8bf27b281e23fff6eabeecf665ac56a269b591791671e",
-      "size": 26601852,
-      "version": "1.0.1"
+      "release_tag": "block-macro-studio-v1.0.2",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/block-macro-studio-v1.0.2/BlockMacroStudioSetup.exe",
+      "sha256": "784b1a3350b96825dd4c4a555b2a6f0fdeb3ab91a2985884cc462b084506bb1f",
+      "size": 26600788,
+      "version": "1.0.2"
     },
     "lumen-browser-windows-1-1-0": {
-      "release_tag": "lumen-browser-windows-1-1-0-v1.8.4",
-      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/lumen-browser-windows-1-1-0-v1.8.4/LumenBrowserSetup.exe",
-      "sha256": "ade0369487cf661d0ac3e94ec94cdf1f62a0af166e7a9882e831869f657d13de",
-      "size": 38046708,
-      "version": "1.8.4"
+      "release_tag": "lumen-browser-windows-1-1-0-v1.8.6",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/lumen-browser-windows-1-1-0-v1.8.6/LumenBrowserSetup.exe",
+      "sha256": "72d1d21cdd8c916c99342a1e3b5d0fc6c93fcbbfbcf4cf50f9e0da5e521af963",
+      "size": 38048103,
+      "version": "1.8.6"
     },
     "mouse-sequence-player-v1": {
-      "release_tag": "mouse-sequence-player-v1-v4.0.14",
-      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/mouse-sequence-player-v1-v4.0.14/MouseSequencePlayerSetup.exe",
-      "sha256": "167f75aafe2d9a99c5af57cb8eba06993b47ba9b8aee33c90435a0fed73d0107",
-      "size": 25057068,
-      "version": "4.0.14"
+      "release_tag": "mouse-sequence-player-v1-v4.0.15",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/mouse-sequence-player-v1-v4.0.15/MouseSequencePlayerSetup.exe",
+      "sha256": "f551be9e65eeec780217dd138df30ab02c7e2966f6b61063ccd27dcd1cc24f19",
+      "size": 25057769,
+      "version": "4.0.15"
     },
     "sams-server": {
       "release_tag": "samsserversetup-v1.0.1",
@@ -29,18 +29,18 @@
       "version": "1.0.1"
     },
     "samuel-toolbox": {
-      "release_tag": "samuel-toolbox-v1.0.1",
-      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/samuel-toolbox-v1.0.1/SamuelToolboxSetup.exe",
-      "sha256": "4f080cb751e27d1c6716e2374e992316b78f71c6ea70391bc34ccbdac277cf2e",
-      "size": 26909667,
-      "version": "1.0.1"
+      "release_tag": "samuel-toolbox-v1.0.2",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/samuel-toolbox-v1.0.2/SamuelToolboxSetup.exe",
+      "sha256": "abd4220a201dc63930d6979a87bdbae872ec81dec01b2ae08a9c7acb0436c58a",
+      "size": 26910598,
+      "version": "1.0.2"
     },
     "sec-language-studio": {
-      "release_tag": "sec-language-studio-v1.11.3",
-      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/sec-language-studio-v1.11.3/SECLanguageStudioSetup.exe",
-      "sha256": "bfaa3f52083355fc3ef5b3c8b6761ec54404e3a59d39482a5b6791cdbb65f2a4",
-      "size": 108237087,
-      "version": "1.11.3"
+      "release_tag": "sec-language-studio-v1.11.4",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/sec-language-studio-v1.11.4/SECLanguageStudioSetup.exe",
+      "sha256": "ef703b4a15758b273317d36400e140cc9057898dfcd2712b4b7038a765572a0a",
+      "size": 108237115,
+      "version": "1.11.4"
     },
     "server-manager": {
       "release_tag": "servermanagersetup-v1.0.1",
@@ -50,11 +50,11 @@
       "version": "1.0.1"
     },
     "simple-autoclicker": {
-      "release_tag": "simple-autoclicker-v1.6.1",
-      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/simple-autoclicker-v1.6.1/SimpleAutoClickerSetup.exe",
-      "sha256": "402d47b2880ce8bd7436dbfc727f45a603dff0c8699b4a7c7a28698769e71743",
-      "size": 28086163,
-      "version": "1.6.1"
+      "release_tag": "simple-autoclicker-v1.6.2",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/simple-autoclicker-v1.6.2/SimpleAutoClickerSetup.exe",
+      "sha256": "0715447b7cac21e12686e74993a9c52f110cd10e0003d1a6f2bdb32941cc1bc4",
+      "size": 28088233,
+      "version": "1.6.2"
     }
   },
   "schema": 1
