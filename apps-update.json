@@ -15,11 +15,11 @@
       "version": "1.8.4"
     },
     "mouse-sequence-player-v1": {
-      "release_tag": "mouse-sequence-player-v1-v4.0.13",
-      "setup_url": "https://github.com/samplies/apps-and-vershons/releases/download/mouse-sequence-player-v1-v4.0.13/MouseSequencePlayerSetup.exe",
-      "sha256": "be3d2f9f053f2e0fcb6fafe0ab5d5cabfb8f9da4bd9700139b99bd6ff93680f9",
-      "size": 25057634,
-      "version": "4.0.13"
+      "release_tag": "mouse-sequence-player-v1-v4.0.14",
+      "setup_url": "https://github.com/samplies/apps-and-vershons/releases/download/mouse-sequence-player-v1-v4.0.14/MouseSequencePlayerSetup.exe",
+      "sha256": "6d991728e028c64bb2815da1e85cc7a7b1347a38877a059d55a9e8ff753fb6f3",
+      "size": 25058180,
+      "version": "4.0.14"
     },
     "sams-server": {
       "release_tag": "sams-server-v1.0.0",
