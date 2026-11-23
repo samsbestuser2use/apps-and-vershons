@@ -1,4 +1,61 @@
 {
-  "schema": 1,
-  "apps": {}
+  "apps": {
+    "block-macro-studio": {
+      "release_tag": "block-macro-studio-v1.0.1",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/block-macro-studio-v1.0.1/BlockMacroStudioSetup.exe",
+      "sha256": "fad45c2045bdf430f2a8bf27b281e23fff6eabeecf665ac56a269b591791671e",
+      "size": 26601852,
+      "version": "1.0.1"
+    },
+    "lumen-browser-windows-1-1-0": {
+      "release_tag": "lumen-browser-windows-1-1-0-v1.8.4",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/lumen-browser-windows-1-1-0-v1.8.4/LumenBrowserSetup.exe",
+      "sha256": "ade0369487cf661d0ac3e94ec94cdf1f62a0af166e7a9882e831869f657d13de",
+      "size": 38046708,
+      "version": "1.8.4"
+    },
+    "mouse-sequence-player-v1": {
+      "release_tag": "mouse-sequence-player-v1-v4.0.14",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/mouse-sequence-player-v1-v4.0.14/MouseSequencePlayerSetup.exe",
+      "sha256": "167f75aafe2d9a99c5af57cb8eba06993b47ba9b8aee33c90435a0fed73d0107",
+      "size": 25057068,
+      "version": "4.0.14"
+    },
+    "sams-server": {
+      "release_tag": "sams-server-v1.0.0",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/sams-server-v1.0.0/SamsServerSetup.exe",
+      "sha256": "5f59d33856f1f8d465cda68737eb975f2dba00a56088c86ad088a56795b985ad",
+      "size": 12246474,
+      "version": "1.0.0"
+    },
+    "samuel-toolbox": {
+      "release_tag": "samuel-toolbox-v1.0.1",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/samuel-toolbox-v1.0.1/SamuelToolboxSetup.exe",
+      "sha256": "4f080cb751e27d1c6716e2374e992316b78f71c6ea70391bc34ccbdac277cf2e",
+      "size": 26909667,
+      "version": "1.0.1"
+    },
+    "sec-language-studio": {
+      "release_tag": "sec-language-studio-v1.11.3",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/sec-language-studio-v1.11.3/SECLanguageStudioSetup.exe",
+      "sha256": "bfaa3f52083355fc3ef5b3c8b6761ec54404e3a59d39482a5b6791cdbb65f2a4",
+      "size": 108237087,
+      "version": "1.11.3"
+    },
+    "server-manager": {
+      "release_tag": "server-manager-v1.0.0",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/server-manager-v1.0.0/ServerManagerSetup.exe",
+      "sha256": "a16eee938976b2df3b7a27020659dafd06a22dd7206a0cbaa65ea5f389c70c49",
+      "size": 12226994,
+      "version": "1.0.0"
+    },
+    "simple-autoclicker": {
+      "release_tag": "simple-autoclicker-v1.6.1",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/simple-autoclicker-v1.6.1/SimpleAutoClickerSetup.exe",
+      "sha256": "402d47b2880ce8bd7436dbfc727f45a603dff0c8699b4a7c7a28698769e71743",
+      "size": 28086163,
+      "version": "1.6.1"
+    }
+  },
+  "schema": 1
 }
