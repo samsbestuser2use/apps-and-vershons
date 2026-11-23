@@ -1,0 +1,61 @@
+{
+  "apps": {
+    "block-macro-studio": {
+      "release_tag": "block-macro-studio-v1.0.1",
+      "setup_url": "https://github.com/samplies/apps-and-vershons/releases/download/block-macro-studio-v1.0.1/BlockMacroStudioSetup.exe",
+      "sha256": "53b4902665357f77b229da77d2cf81f0522ef52ef0a2d6cc5bce48c09dfd2937",
+      "size": 26601622,
+      "version": "1.0.1"
+    },
+    "lumen-browser-windows-1-1-0": {
+      "release_tag": "lumen-browser-windows-1-1-0-v1.8.4",
+      "setup_url": "https://github.com/samplies/apps-and-vershons/releases/download/lumen-browser-windows-1-1-0-v1.8.4/LumenBrowserSetup.exe",
+      "sha256": "6d0e882d7bc2ff9cb45950d59ab75895f0f8de28a281be553aae594a80c3f912",
+      "size": 38044648,
+      "version": "1.8.4"
+    },
+    "mouse-sequence-player-v1": {
+      "release_tag": "mouse-sequence-player-v1-v4.0.13",
+      "setup_url": "https://github.com/samplies/apps-and-vershons/releases/download/mouse-sequence-player-v1-v4.0.13/MouseSequencePlayerSetup.exe",
+      "sha256": "be3d2f9f053f2e0fcb6fafe0ab5d5cabfb8f9da4bd9700139b99bd6ff93680f9",
+      "size": 25057634,
+      "version": "4.0.13"
+    },
+    "sams-server": {
+      "release_tag": "sams-server-v1.0.0",
+      "setup_url": "https://github.com/samplies/apps-and-vershons/releases/download/sams-server-v1.0.0/SamsServerSetup.exe",
+      "sha256": "5f59d33856f1f8d465cda68737eb975f2dba00a56088c86ad088a56795b985ad",
+      "size": 12246474,
+      "version": "1.0.0"
+    },
+    "samuel-toolbox": {
+      "release_tag": "samuel-toolbox-v1.0.1",
+      "setup_url": "https://github.com/samplies/apps-and-vershons/releases/download/samuel-toolbox-v1.0.1/SamuelToolboxSetup.exe",
+      "sha256": "d507e05b20c3b659c3c84c66cbca07a25a7154aed4cf81b15bae1215529bdb50",
+      "size": 26910299,
+      "version": "1.0.1"
+    },
+    "sec-language-studio": {
+      "release_tag": "sec-language-studio-v1.11.3",
+      "setup_url": "https://github.com/samplies/apps-and-vershons/releases/download/sec-language-studio-v1.11.3/SECLanguageStudioSetup.exe",
+      "sha256": "cd8800f2d2e28baeacec28747c693c2563c51bca09456937b3d8fb97a40b6725",
+      "size": 108233330,
+      "version": "1.11.3"
+    },
+    "server-manager": {
+      "release_tag": "server-manager-v1.0.0",
+      "setup_url": "https://github.com/samplies/apps-and-vershons/releases/download/server-manager-v1.0.0/ServerManagerSetup.exe",
+      "sha256": "a16eee938976b2df3b7a27020659dafd06a22dd7206a0cbaa65ea5f389c70c49",
+      "size": 12226994,
+      "version": "1.0.0"
+    },
+    "simple-autoclicker": {
+      "release_tag": "simple-autoclicker-v1.6.1",
+      "setup_url": "https://github.com/samplies/apps-and-vershons/releases/download/simple-autoclicker-v1.6.1/SimpleAutoClickerSetup.exe",
+      "sha256": "bc9da2318b00ea8c03d9b77ecb221e3ec05c85d8cff72bebad7b329ba45671f3",
+      "size": 28089865,
+      "version": "1.6.1"
+    }
+  },
+  "schema": 1
+}
