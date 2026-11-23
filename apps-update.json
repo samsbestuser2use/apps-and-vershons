@@ -36,11 +36,11 @@
       "version": "1.0.3"
     },
     "sec-language-studio": {
-      "release_tag": "sec-language-studio-v1.11.5",
-      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/sec-language-studio-v1.11.5/SECLanguageStudioSetup.exe",
-      "sha256": "1fbaab0715d6e09b4f72487c3b57562cf43cccf3d82c7461ee840667f4e01163",
-      "size": 108238158,
-      "version": "1.11.5"
+      "release_tag": "sec-language-studio-v1.11.6",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/sec-language-studio-v1.11.6/SECLanguageStudioSetup.exe",
+      "sha256": "d54074b5e2ebd5edbee412bbad103430bfa18f92b92ea7e1b51dfbea202ccd72",
+      "size": 108243068,
+      "version": "1.11.6"
     },
     "server-manager": {
       "release_tag": "servermanagersetup-v1.0.1",
