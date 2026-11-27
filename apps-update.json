@@ -8,18 +8,18 @@
       "version": "1.0.3"
     },
     "lumen-browser-windows-1-1-0": {
-      "release_tag": "lumen-browser-windows-1-1-0-v1.8.8",
-      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/lumen-browser-windows-1-1-0-v1.8.8/LumenBrowserSetup.exe",
-      "sha256": "8593a516f53b7155256b4b023437a780cbc26733d3cab149e2571f6ab96d95cd",
-      "size": 38052017,
-      "version": "1.8.8"
+      "release_tag": "lumen-browser-windows-1-1-0-v1.10.0",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/lumen-browser-windows-1-1-0-v1.10.0/LumenBrowserSetup.exe",
+      "sha256": "c7428e80197ace909179d2e90a1afec1216fd4ae8dba917e872865bdbcddf360",
+      "size": 46859544,
+      "version": "1.10.0"
     },
     "mouse-sequence-player-v1": {
-      "release_tag": "mouse-sequence-player-v1-v4.0.16",
-      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/mouse-sequence-player-v1-v4.0.16/MouseSequencePlayerSetup.exe",
-      "sha256": "25970437dc1a47a30b69b2eac19c3114f29b98e9452334752b08bb34cdcce7f2",
-      "size": 25058844,
-      "version": "4.0.16"
+      "release_tag": "mouse-sequence-player-v1-v4.0.17",
+      "setup_url": "https://github.com/samsbestuser2use/apps-and-vershons/releases/download/mouse-sequence-player-v1-v4.0.17/MouseSequencePlayerSetup.exe",
+      "sha256": "84afc3e03f8331fc323a776303a8af4eafdac3907994349f81a68b7c970e6a98",
+      "size": 25082592,
+      "version": "4.0.17"
     },
     "sams-server": {
       "release_tag": "samsserversetup-v1.0.1",
